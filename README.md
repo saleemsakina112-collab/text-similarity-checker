@@ -117,12 +117,12 @@ Enter the two texts when prompted.
 ```text
 text-similarity-checker/
 │
-├── text_similarity_checker.py
+├── text_similarity.py
 ├── README.md
 └── requirements.txt
 ```
 
-### `text_similarity_checker.py`
+### `text_similarity.py`
 
 Contains the main Python program that cleans, processes, and compares the two texts.
 
